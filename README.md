@@ -86,3 +86,4 @@ DELETE /api/quizzes/:id → Delete a quiz
 📌 Notes
 This project does not use JWT for authentication.
 The credentials are hardcoded for demo purposes.
+Ensure MySQL is running before starting the backend.
