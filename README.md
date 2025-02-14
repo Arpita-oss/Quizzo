@@ -60,7 +60,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Arpita-oss/quizo.git
+git clone https://github.com/Arpita-oss/Quizzo.git
 cd quizo
 ```
 
