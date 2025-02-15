@@ -1,4 +1,5 @@
 # Quizo - Quiz Management System
+![Alt text](https://github.com/Arpita-oss/Quizzo/blob/main/quizo_frontend/src/assets/Screenshot%202025-02-15%20235035.png)
 
 ## 📌 Project Overview
 
