@@ -96,6 +96,7 @@ npm run dev
 
 ### Authentication
 - `POST /api/login` - Validate username & password
+- 'POST /api/login' - Creating user account with username and password
 
 ### Quiz Management
 - `POST /api/quizzes` - Create a quiz
@@ -108,6 +109,9 @@ npm run dev
 
 1. Open the application in your browser
 2. Log in using the demo credentials
-3. Navigate to the dashboard to view existing quizzes
-4. Use the "Create Quiz" button to add new quizzes
-5. Manage existing quizzes through edit and delete options
+3. You can also create your account by writing username and password
+4. Navigate to the dashboard to view existing quizzes
+5. Use the "Create Quiz" button to add new quizzes
+6. Manage existing quizzes through edit and delete options
+7. Search you quizes with title in search box
+8. Sort your quizes from recent to oldest
